@@ -1,6 +1,5 @@
-Device Index/Type/Data ID,,,,0_4_201000,0_4_201012,0_4_201030,0_4_201036,0_4_201042,0_4_201592,0_4_201598
-Date/Time,DTmode,Record Type,Profile Index,0144341825 - Volts A-N,0144341825 - Amps A,"0144341825 - Watts, Phase A","0144341825 - VARs, Phase A","0144341825 - VAs, Phase A","0144341825 - W-hours in the Interval, Received, Phase A","0144341825 - W-hours in the Interval, Delivered, Phase A"
-23/05/2020 10:40:00.000,-1,,
+Device Index/Type
+Date/Time,DTmode
 23/05/2020 11:50:00.000,-1,,
 23/05/2020 12:00:00.000,-1,,
 23/05/2020 12:10:00.000,-1,,
